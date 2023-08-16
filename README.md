@@ -6,3 +6,6 @@ It is very stupidly written.
 This script will also look for `X-Forwarded-For` header for when you use a Reverse Proxy for example or `CF-Connecting-IP` if using CloudFlare.
 You need to change `IP1` and `IP2` in the file with proper IPs.
 You can also add some other IPs in the `switch`.
+
+## Caution
+You might need to change the CSS bootstrap line and change its hash depending on the version you're using.
